@@ -20,7 +20,7 @@ fs.readFile('./puzzleInput.txt', (err, data) => {
     i++;
   }
   console.log(increment);
-  console.timeEnd('testing');
+  console.timeEnd('testing'); //2.2
 });
 
 // function whichLevel(input) {
